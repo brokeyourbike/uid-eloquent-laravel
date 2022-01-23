@@ -1,5 +1,5 @@
 {
-    "name": "brokeyourbike/uid-keys-laravel",
+    "name": "brokeyourbike/uid-keys",
     "description": "A simple drop-in solution for providing UUID and ULID support for the IDs of your Eloquent models.",
     "type": "library",
     "license": "MPL-2.0",
