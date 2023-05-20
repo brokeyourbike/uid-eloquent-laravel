@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.2](https://www.github.com/brokeyourbike/uid-keys-laravel/compare/v0.1.1...v0.1.2) (2023-05-20)
+
+
+### Miscellaneous Chores
+
+* button ([644e755](https://www.github.com/brokeyourbike/uid-keys-laravel/commit/644e75557041808c3f3be176e27bc204bf016f82))
+
 ### [0.1.1](https://www.github.com/brokeyourbike/uid-keys-laravel/compare/v0.1.0...v0.1.1) (2023-05-14)
 
 
